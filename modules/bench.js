@@ -37,7 +37,7 @@ export const loadBenchModel = (scene) => {
     scene.add(bench);
   });
 
-  loader.load("../public/models/bench_2/scene.gltf", (gltf) => {
+  loader.load("models/bench_2/scene.gltf", (gltf) => {
     const bench = gltf.scene;
     //console.log("BENCH", gltf);
 
