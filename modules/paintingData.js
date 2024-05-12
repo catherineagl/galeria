@@ -31,7 +31,7 @@ export const paintingData = [
       artist: "El mismísimo Dios",
       description: descriptions[i],
       year: `2024`,
-      link: "https://github.com/theringsofsaturn",
+      link: "https://www.instagram.com/lorenapsm18/",
     },
   })),
   // Back Wall
